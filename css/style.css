@@ -63,6 +63,10 @@ padding-bottom: 100px;
 	color:#010101 ! important; 
 	margin-right: 10px;
 }
+.inspire .list-inline li:hover{
+	font-size: 50px;
+	color:white ! important; 
+}
 
 .s_img{
 	text-align:center;
@@ -146,6 +150,11 @@ padding-bottom: 100px;
 	text-transform: uppercase;
 	padding: 12px 35px;
 }
+.btn-cutom:hover{
+	color: white;
+	font-size: 20px;
+	padding: 12px 40px;
+}
 .social-link{
  margin-top: 60px;
 }
@@ -159,6 +168,10 @@ padding-bottom: 100px;
     padding: 0 8px;
     background-color: yellow;
     border-radius: 7px;
+}
+.social-link ul li a:hover{
+	color: blue;
+	background-color: black;
 }
 
 /*footer start*/
